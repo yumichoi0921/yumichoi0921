@@ -17,7 +17,9 @@
 
 # **👩🏻‍💻 E**xperience
 
-## [****GotCha****](https://github.com/yumichoi0921/Gotcha)
+## [****Trou****](https://github.com/yumichoi0921/trou-public)
+
+## [****GotCha****](https://github.com/yumichoi0921/gotcha-public)
 
 ## [****HappyHouse****](https://github.com/yumichoi0921/happyhouse)
 
