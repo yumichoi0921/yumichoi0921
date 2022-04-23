@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Choi%20Yumi&fontSize=90)
 # Choi Yumi
 ![Choi Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumichoi0921&show_icons=true&theme=radical) 
-> 호기심 많은 개발자 최유미입니다. 주로 웹 서비스를 개발하고 클라이언트와 서버를 가리지 않고 개발에 참여하고 있습니다. 새로운 기술을 배우며 도전하는 것을 즐깁니다.
-> 
 
-> 협업하는 과정에서 팀원과 서로의 경험을 공유하고 배우며 동반 성장하고 있습니다. 책임감을 바탕으로 팀에 기여하고 적극적인 커뮤니케이션으로 유연한 사고방식을 기르고자 노력하고 있습니다.
 ---
 
 # ☎️ Contact information
@@ -15,13 +12,13 @@
 
 ---
 
-# **👩🏻‍💻 E**xperience
+<!-- # **👩🏻‍💻 E**xperience
 
 ## [****Trou****](https://github.com/yumichoi0921/trou-public)
 
 ## [****GotCha****](https://github.com/yumichoi0921/gotcha-public)
 
-## [****HappyHouse****](https://github.com/yumichoi0921/happyhouse)
+## [****HappyHouse****](https://github.com/yumichoi0921/happyhouse) -->
 
 ---
 
